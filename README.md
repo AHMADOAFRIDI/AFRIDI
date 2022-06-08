@@ -1,6 +1,8 @@
 # AFRIDI
 HELLO GUY'S. THIS IS CLONING TOOL FOR TERMUX
 COMMAND HERE 👇
+
+
 termux-setup-storage
 
 pkg update && apt upgrade
